@@ -9,4 +9,8 @@ c++经典项目贪吃蛇游戏控制台版，详细注释。
 ![](https://github.com/silence1772/GreedySnake/raw/master/shot03.gif)
 ![](https://github.com/silence1772/GreedySnake/raw/master/shot04.gif)
 
+<<<<<<< HEAD
 然后我个人添加了一些内容
+=======
+凌晨的修改
+>>>>>>> dev
